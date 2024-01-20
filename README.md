@@ -10,6 +10,15 @@ Cloudflare pure IP update: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 [![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
 
+UUID GENERATOR
+https://www.uuidgenerator.net/
+
+
+
+
+CHECK IP REGION
+https://ip2geo.org/
+
 ## Deploy in pages.dev
 
 1. See YouTube Video:
